@@ -8,5 +8,12 @@
 
 <!---
 BongtarChannel/BongtarChannel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link thttps://github.com/BongtarChannel/Bongtar-Cho take a look at your changes.
 --->
+echo "# Bongtar-Ch" >> README.md 
+git init 
+git add README.md 
+git commit -m "การคอมมิตครั้งแรก" 
+สาขา git -M main 
+git remote เพิ่มต้นกำเนิดhttps://github.com/BongtarChannel/Bongtar-Ch git
+ git push -u ต้นกำเนิดหลัก https://www.youtube.com/@Bongtar.Channel.88k
